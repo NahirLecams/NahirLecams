@@ -8,7 +8,7 @@
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 Estudiante de programación autodidacta.
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
