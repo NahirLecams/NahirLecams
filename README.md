@@ -8,15 +8,14 @@
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 Estudiante de programación autodidacta.
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 .NET developer.
+📚 Estudiante de Tecnicatura en programacíon.
+📝 Soy entusiasta del mundo IT!
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🌱 Amo la naturaleza.
+🌟 Main languages: C#, CSS, HTML, JAVASCRIPT.
+🚩 Interesada más que nada en BACKEND.
+🎵 Amo la música y los videojuegos.
 ```
 <hr>
 
