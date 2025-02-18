@@ -6,12 +6,12 @@
 <hr>
 
 ```
-I-am-vishalmaurya@github
+nahir.camles@gmail.com
 -------------------------
 💻 .NET developer.
 📚 Estudiante de Tecnicatura en programacíon.
-📝 Soy entusiasta del mundo IT!
-🔭 Working on Deep Learning & Machine Learning
+📝 Soy entusiasta del mundo IT!.
+🔭 Trabajando en Deep Learning & Machine Learning.
 🌱 Amo la naturaleza.
 🌟 Main languages: C#, CSS, HTML, JAVASCRIPT.
 🚩 Interesada más que nada en BACKEND.
