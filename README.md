@@ -9,11 +9,11 @@
 nahir.camles@gmail.com
 -------------------------
 💻 .NET developer.
-📚 Estudiante de Tecnicatura en programacíon.
+📚 Estudiante de Tecnicatura en Desarrollo de Software.
 📝 Soy entusiasta del mundo IT!.
-🔭 Trabajando en Deep Learning & Machine Learning.
+🔭 Trabajando en proyectos personales.
 🌱 Amo la naturaleza.
-🌟 Main languages: C#, CSS, HTML, JAVASCRIPT.
+🌟 Main language: C#.
 🚩 Interesada más que nada en BACKEND.
 🎵 Amo la música y los videojuegos.
 ```
